@@ -15,4 +15,9 @@ public class MainActivity extends AppCompatActivity {
     public void save(){
         System.out.println("sa");
     }
+
+    public void as()
+    {
+        System.out.println("as");
+    }
 }
