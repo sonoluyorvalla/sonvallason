@@ -1,2 +1,6 @@
-package com.furkanozek.myapplication;public class NewActivity {
+package com.furkanozek.myapplication;
+
+public class NewActivity {
+
+    
 }
