@@ -28,4 +28,6 @@ public class MainActivity extends AppCompatActivity {
     public void  skrmböleişi(){
         System.out.println("daha kolay bi uygulama yapamadınız mı");
     }
+
+    
 }
