@@ -25,9 +25,13 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Yagizbrotv kanalına hoş geldiniz!!");
     }
 
+<<<<<<< Updated upstream
     public void  skrmböleişi(){
         System.out.println("daha kolay bi uygulama yapamadınız mı");
     }
 
+=======
+    
+>>>>>>> Stashed changes
     
 }
