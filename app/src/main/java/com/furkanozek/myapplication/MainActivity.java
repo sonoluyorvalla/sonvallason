@@ -24,5 +24,8 @@ public class MainActivity extends AppCompatActivity {
     public void youtube(){
         System.out.println("Yagizbrotv kanalına hoş geldiniz!!");
     }
-    
+
+    public void  skrmböleişi(){
+        System.out.println("daha kolay bi uygulama yapamadınız mı");
+    }
 }
