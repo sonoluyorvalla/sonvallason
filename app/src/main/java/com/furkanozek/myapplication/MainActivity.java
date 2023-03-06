@@ -20,4 +20,9 @@ public class MainActivity extends AppCompatActivity {
     {
         System.out.println("as");
     }
+
+    public void youtube(){
+        System.out.println("Yagizbrotv kanalına hoş geldiniz!!");
+    }
+    
 }
